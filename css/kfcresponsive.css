@@ -1,0 +1,28 @@
+/* media quiry 992px */
+@media(max-width:992px){
+    /* header section */
+    
+}
+
+
+/* media quiry 1170px */
+@media (max-width:1200px){
+    /* card best seller section */
+    .card{
+        width: 21.6rem;
+    }
+}
+/* media quiry 1171px */
+@media(max-width:1400px)and(min-width:1201px) {
+    .card{
+        width: 25.6rem;
+    }
+}
+
+/* media quiry extra large divices */
+@media(min-width:1401px){
+    /* card best seller section */
+    .card{
+        width: 30rem;
+    }
+}
